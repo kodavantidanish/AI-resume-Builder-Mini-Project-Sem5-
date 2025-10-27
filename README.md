@@ -1,2 +1,2 @@
-# AI-resume-Builder-Mini-Project-Sem5-
+# AI-resume-Builder
 Welcome!
